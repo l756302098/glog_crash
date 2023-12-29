@@ -1,0 +1,9 @@
+build
+lib
+.cproject
+.project
+.settings/
+.vscode/
+log/*
+run/log/*
+install
